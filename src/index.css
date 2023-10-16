@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.location_dropdown{
+   content: " ";
+   background: url('./assets/arrow-left.svg') #F2F4F7;
+   background-repeat: no-repeat;
+   background-position: calc(100% - 30px);
+}
